@@ -1,0 +1,16 @@
+{
+    "popup": ".at-cm-no-button",
+    "startPractisingBtn": "#btn_basic_example",
+    "simpleFormDemo": ".list-group > [href=\"./basic-first-form-demo.html\"]",
+    "enterMessage": "#user-message",
+    "message": "Hello World",
+    "showMessageBtn": "#get-input > .btn",
+    "displayMessage": "#display",
+    "enterA": "#sum1",
+    "valueA": "5",
+    "enterB": "#sum2",
+    "valueB": "10",
+    "getTotalBtn": "#gettotal > .btn",
+    "total": "#displayvalue"
+
+}
