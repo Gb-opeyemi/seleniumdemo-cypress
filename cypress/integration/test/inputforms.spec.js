@@ -29,7 +29,7 @@ describe('Test Input Forms', ()=>{
             })
         })
 
-    it.only('Sum Two Numbers', ()=>{
+    it.skip('Sum Two Numbers', ()=>{
         cy.fixture('elementMapper').then((em)=>{
             cy.typeSomeText(em.enterA, em.valueA)
             cy.typeSomeText(em.enterB, em.valueB)
