@@ -11,6 +11,13 @@
     "enterB": "#sum2",
     "valueB": "10",
     "getTotalBtn": "#gettotal > .btn",
-    "total": "#displayvalue"
-
+    "total": "#displayvalue",
+    "checkBoxDemo": ".list-group > [href=\"./basic-checkbox-demo.html\"]",
+    "checkTheBox": "#isAgeSelected",
+    "successMsgField": "#txtAge",
+    "successMsg": "Success - Check box is checked",
+    "option1": ":nth-child(3) > label > .cb1-element",
+    "option2": ":nth-child(4) > label > .cb1-element",
+    "checkAllBtn": "#check1",
+    "uncheckTxt": "Uncheck All"
 }
