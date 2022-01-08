@@ -19,5 +19,20 @@
     "option1": ":nth-child(3) > label > .cb1-element",
     "option2": ":nth-child(4) > label > .cb1-element",
     "checkAllBtn": "#check1",
-    "uncheckTxt": "Uncheck All"
+    "uncheckTxt": "Uncheck All",
+    "selectDropdown": ".list-group > [href=\"./basic-select-dropdown-demo.html\"]",
+    "selectDayDropddown": "#select-demo",
+    "selectedValue": ".selected-value",
+    "dayDropdownOption": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+    "dayDropdownValue": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+    "jsAlertBtn": ".list-group > [href=\"./javascript-alert-box-demo.html\"]",
+    "alertClickMeBtn": ":nth-child(4) > .panel-body > .btn",
+    "confirmClickMeBtn": ":nth-child(5) > .panel-body > .btn",
+    "confirmTextElm": "#confirm-demo",
+    "confirmTextOK": "You pressed OK!",
+    "confirmTextCancel": "You pressed Cancel!",
+    "promptClickMeBtn": ":nth-child(6) > .panel-body > .btn",
+    "promptTextElm": "#prompt-demo",
+    "promptText": "Opeyemi"
+
 }
