@@ -1,7 +1,7 @@
 /// <reference types="cypress" />
 describe('Test Checkbox Demo', ()=>{
-    //before (()=> {
-    it('Launch the site', ()=>{
+    before (()=> {
+    //it('Launch the site', ()=>{
          cy.visit('/')
     })
 

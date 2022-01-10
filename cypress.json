@@ -3,5 +3,6 @@
     "viewportHeight": 900,
     "viewportWidth": 1400,
     "watchForFileChanges" : false,
-    "videoUploadOnPasses": false
+    "videoUploadOnPasses": false,
+    "testFiles": "**/*.feature"
 }
